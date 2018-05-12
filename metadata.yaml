@@ -1,0 +1,28 @@
+_repo: A-Vindication-of-the-Presbyteriall-Government-and-Ministry_44787
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 44787-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Ministers and Elders of the London Provinciall Assembly
+    gutenberg_agent_id: '42923'
+    url: http://www.gutenberg.org/2009/agents/42923
+description: ''
+gutenberg_issued: '2014-01-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44787'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Presbyterianism -- Apologetic works -- Early works to 1800'
+- !lcc 'BX'
+- !lcsh 'Presbyterian Church -- Government'
+- !lcsh 'Congregationalism -- Early works to 1800'
+- !lcsh 'Church of England -- Government -- Early works to 1800'
+- !lcsh 'Separatists -- England -- Early works to 1800'
+title: A Vindication of the Presbyteriall-Government and Ministry
+url: http://www.gutenberg.org/ebooks/44787
