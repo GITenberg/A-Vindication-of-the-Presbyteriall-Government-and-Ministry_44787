@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '42923'
     url: http://www.gutenberg.org/2009/agents/42923
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/44787#A-Vindication-of-the-Presbyteriall-Government-and-Ministry
 gutenberg_issued: '2014-01-29'
 gutenberg_type: Text
 identifiers:
